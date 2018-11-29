@@ -1,0 +1,10 @@
+.new-item {
+  padding: 12px;
+}
+.new-item label {
+  display: block;
+}
+
+.input-group {
+  margin: 12px 0;
+}

@@ -1,0 +1,10 @@
+.item-list {
+  max-width: 700px;
+  margin: auto;
+  padding: 12px;
+}
+.item-list img {
+  display: block;
+  margin: 36px auto;
+  max-width: 700px;
+}
